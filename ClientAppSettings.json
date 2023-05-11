@@ -1,4 +1,4 @@
 {
-    "DFIntTaskSchedulerTargetFps": -1,
-    "FFlagHandleAltEnterFullscreenManually": "false"
+    "DFIntTaskSchedulerTargetFps": 1000,
+    "FFlagHandleAltEnterFullscreenManually": "False"
 }
